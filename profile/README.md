@@ -118,7 +118,7 @@ Whether it's discussing a game concept, exploring publishing opportunities, or c
 
 <br />
 
-<sub>Made with 💜 in Bangladesh 🇧🇩</sub>
+<sub> Bangladesh 🇧🇩</sub>
 
 <sub>© 2026 Gamalith Studio. All rights reserved.</sub>
 
