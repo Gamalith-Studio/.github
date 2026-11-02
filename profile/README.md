@@ -69,23 +69,36 @@ We use modern game development technologies and tools to build, optimize, and ma
 **Game Engines**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
 **Programming & Development**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Multiplayer & Backend**
 
-![Photon](https://img.shields.io/badge/Photon_Fusion-004480?style=for-the-badge&logo=photon&logoColor=white)
+![Photon Fusion](https://img.shields.io/badge/Photon_Fusion-004480?style=for-the-badge&logo=photon&logoColor=white)
+![FishNet](https://img.shields.io/badge/FishNet-00A3E0?style=for-the-badge&logo=unity&logoColor=white)
+![PurrNet](https://img.shields.io/badge/PurrNet-6C4CE3?style=for-the-badge&logo=unity&logoColor=white)
+![Unity Netcode](https://img.shields.io/badge/Unity_Netcode-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Vivox](https://img.shields.io/badge/Vivox_Voice-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Art & Design**
+**Art, Design & Creative Tools**
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ## Our Philosophy
 
 We believe game development is more than writing code or creating visuals. It's about building experiences that connect with players.
